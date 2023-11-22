@@ -5,6 +5,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#autor">Autor</a>
 </p>
@@ -39,6 +40,13 @@ Este projeto é parte de um dos desafios do curso Explorer da [Rocketseat](https
 - Assíncrono e promises;
 - Orientação a objetos;
 - Classes e muito mais.
+
+## 🎲 Como executar
+
+1. Clone este repositório.
+2. Instale as dependências com `npm install`
+3. Execute o servidor com `npm run start`
+4. Abra a aplicação no link: http://localhost:3000
 
 ## 📝 Licença
 

@@ -1,0 +1,28 @@
+body {
+  background: url('/src/assets/background.png') no-repeat center/cover;
+}
+
+.container {
+  text-align: center;
+  padding-top: 12rem;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+}
+
+.error {
+  display: flex;
+  justify-content: center;
+}
+
+.error img {
+  width: 8rem;
+}
+
+lottie-player {
+  height: 23rem;
+  width: 23rem;
+}

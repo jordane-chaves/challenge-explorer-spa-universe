@@ -1,0 +1,18 @@
+body {
+  background:
+    url("/src/assets/mountains-universe-2.png")
+    no-repeat
+    center/cover;
+}
+
+h1 {
+  margin-bottom: 1.6rem;
+}
+
+.container {
+  padding: 6rem 7.2rem;
+}
+
+p {
+  max-width: 64.8rem;
+}
